@@ -51,8 +51,8 @@
 
 # RainDrop
 * `CVPR 2021` Removing Raindrops and Rain Streaks in One Go [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Quan_Removing_Raindrops_and_Rain_Streaks_in_One_Go_CVPR_2021_paper.pdf)
-* `CVPR 2018` Attentive Generative Adversarial Network for Raindrop Removal from A Single Image [[Paper]](TBA) [[Code]](https://github.com/rui1996/DeRaindrop)  
-
+* `CVPR 2018` Attentive Generative Adversarial Network for Raindrop Removal from A Single Image [[Paper]](https://arxiv.org/abs/1711.10098) [[Code]](https://github.com/rui1996/DeRaindrop)  
+* `ECCV 2024` Raindrop Clarity: A Dual-Focused Dataset for Day and Night Raindrop Removal [[Paper]](https://arxiv.org/abs/2407.16957) [[Code]](https://github.com/jinyeying/RaindropClarity) 
 
 # Multi-tasks Learning for Image/Video Restoration 
 
